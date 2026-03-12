@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Yago Casimiro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Yago Casimiro Ferreira, tenho 16 anos e sou natural do de Acopiara CE. Atualmente, estou cursando Desenvolvimento de Sistemas no 2° ano do ensino médio. E sou apaixonado por tecnologia.
   <P>
